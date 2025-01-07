@@ -1,0 +1,1518 @@
+2019-09-05
+____________________________________________________________________________
+Question #: 1
+Adrenalin är ett av de hormoner som bildas i binjuren.
+Vilken av följande processer stimuleras direkt av adrenalin?
+A. Pyrimidinnedbrytningen
+✓B. Glykogenolysen
+C. Fettsyrasyntesen
+D. Kolesterolsyntesen
+E. Pentosfosfatshunten
+____________________________________________________________________________
+Question #: 2
+Amanda, 33 år, födde sitt första barn igår. Hon har en del funderingar kring amning.
+Vilket vitamin kan barnet behöva tillägg av trots amning?
+A. Vitamin A
+B. Vitamin E
+✓C. Vitamin D
+D. Vitamin C
+E. Vitamin B
+____________________________________________________________________________
+Question #: 3
+Amiodaron är ett potent antiarytmika som ibland används vid förmaksflimmer.
+Vilken klass av antiarytmika tillhör amiodaron?
+A. Klass IV
+✓B. Klass III
+C. Klass II
+D. Klass Ic
+E. Klass Ia
+____________________________________________________________________________
+Question #: 4
+Anna, 27 år, har utvecklat neurologiska symptom efter en enkelsidig skada på dorsolaterala delen av medulla
+oblongata med påverkan av tractus spinothalamicus.
+Vilket av nedanstående exempel på neurologiska symptom är det mest sannolikt att hon uppvisar?
+A. Bortfall av vibrationskänsel på motsatt sida av kroppen
+B. Bortfall av smärta och temperatur i ansiktet på samma sida av kroppen
+C. Slapp pares i arm på samma sida
+✓D. Bortfall av smärta och temperatur på motsatt sida av kroppen
+E. Spastisk pares i ben på motsatt sida
+____________________________________________________________________________
+Question #: 5
+B-celler är en del av det adaptiva försvaret. För att B-cellen ska aktiveras måste B-cellsreceptorn binda till något.
+Vad är det B-cellsreceptorn binder till?
+A. Komplementproteinerna
+B. CD19 eller CD20
+C. CD40 och IL-4
+D. T-cellsreceptorn och dess MHC
+✓E. Epitoper på antigenet
+____________________________________________________________________________
+Question #: 6
+Bakterie- och djurceller uppvisar både likheter och olikheter.
+Vilken av följande finns i både djurceller och bakterier?
+A. Cellkärnor
+B. Mitokondrier
+✓C. Ribosomer
+D. Cellvägg
+E. Periplasma
+____________________________________________________________________________
+Question #: 7
+Bisfosfonater, exempelvis alendronat, används för behandling av osteoporos.
+Vilken är verkningsmekanismen?
+A. Blockad av androgenreceptorer
+B. Aktivering av estrogenreceptorer
+C. Kalciumkanalshämning
+✓D. Benresportionshämning
+E. Stimulering av bentillverkning
+____________________________________________________________________________
+Question #: 8
+Brosk finns på många ställen och har många olika funktioner.
+Vilket av följande är INTE en broskfunktion?
+A. Modell för benbildning
+B. Stöd för mjukvävnad
+✓C. Mall för tillväxt av artärer
+D. Glidyta i leder
+E. Stötdämpning
+____________________________________________________________________________
+Question #: 9
+California Highway Patrol har rapporterat att fler olyckor hade inträffat med blå bilar än med bilar av någon annan
+färg.
+Baserat på enbart denna information skulle en slutsats kunna vara: ”Att köra en blå bil innebär en högre risk för en
+olycka än att köra bil med en annan färg”.
+Är slutsatsen korrekt eller felaktig och hur motiverar man det?
+A. Felaktig, eftersom ingen kontroll- eller jämförelsegrupp har använts
+B. Korrekt, eftersom resultaten kommer från en myndighet
+C. Felaktig, eftersom inga siffror presenteras
+D. Korrekt, eftersom ett test av statistisk signifikans har gjorts
+✓E. Felaktig, eftersom andelen blå bilar i trafik är okänd
+____________________________________________________________________________
+Question #: 10
+Campylobacter är en sjukdomsframkallande bakterie som är vanlig över hela världen.
+Vilket av följande påståenden är uppenbart FELAKTIGT när det gäller campylobacter?
+✓A. Den vanligaste smittkällan för campylobacter-infektion är griskött
+B. De flesta svenskar som får campylobacter-infektion smittas i Sverige
+C. Campylobacter-infektion är en zoonos
+D. Campylobacter-infektion är vanligare än salmonella-infektion
+E. Inkubationstiden för campylobacter-infektion är oftast inte mer än några dagar
+____________________________________________________________________________
+Question #: 11
+Creutzfeldt-Jakobs sjukdom är en överförbar hjärnsjukdom där hjärnan vid mikroskopisk undersökning uppvisar
+tvättsvampsliknande (spongiforma) förändringar. Den kan uppkomma sporadiskt, nedärvas eller vara överförd.
+Samtliga former är dödliga.
+Vad orsakas Creutzfeldt-Jakobs sjukdom av?
+A. DNA-virus
+B. Viroider
+✓C. Prioner
+D. Retrovirus
+E. RNA-virus 
+____________________________________________________________________________
+Question #: 12
+De slutsatser som Gregor Mendel kom fram till vid sina studier av nedärvning hos ärtor ligger till stor del till grund
+för de genetiska lagar som vi använder för analys av genetiska sjukdomar idag. Mendels andra lag säger att olika
+egenskaper ärvs oberoende av varandra och kombineras slumpvis vid nedärvningen.
+Vilket av dessa påståenden är mest korrekt gällande denna lag?
+A. Gäller bara egenskaper som ligger på olika kromosomer
+B. Gäller bara egenskaper som ligger på autosomerna
+C. Gäller bara egenskaper som är kopplade
+D. Gäller alla egenskaper, oberoende av var de ligger i förhållande till varandra i genomet
+✓E. Gäller bara egenskaper som ligger på olika kromosomer eller långt ifrån varandra på samma kromosom
+____________________________________________________________________________
+Question #: 13
+Det finns flera virus som kan orsaka cancer. En vanlig virusorsakad cancer är cervixcancer.
+Vilket humant virus kan orsaka cervixcancer?
+A. Hepatit C-virus
+B. Herpes simplex virus typ-2
+✓C. Humant papillomvirus
+D. Hepatit B-virus
+E. Epstein-Barr virus
+____________________________________________________________________________
+Question #: 14
+Det tar en tid innan vi har tillräckligt med bra antikroppar mot inkräktaren vid en förstagångsinfektion, och det tar
+även en tid innan skyddet uppkommer efter en vaccination.
+Vad av följande är de viktigaste processerna som gör att det tar tid?
+A. Att selektera B-lymfocyter som V(D)J-rekombinerats till hög affinitet mot antigenet och att differentiera ut
+minnesceller mot antigenet
+B. Att antikroppsgener genomgår mutationer och att selektera B-lymfocyter som V(D)J-rekombinerats till hög
+affinitet mot antigenet
+C. Att selektera pre-B-lymfocyter som V(D)J-rekombinerats till hög affinitet mot antigenet och att expandera
+B-lymfocytkloner med högst affinitet mot antigenet
+✓D. Att antikroppsgener genomgår mutationer och att expandera B-lymfocytkloner med högst affinitet mot
+antigenet
+E. Att selektera pre-B-lymfocyter som V(D)J-rekombinerats till hög affinitet mot antigenet och att
+differentiera ut minnesceller mot antigenet
+____________________________________________________________________________
+Question #: 15
+Det är inte känt i detalj vad som initierar puberteten hos människor men den involverar två distinkta fysiologiska
+processer. En av dem kallas gonadarke.
+Vad kallas den fysiologiska process som normalt inleds strax före gonadarke?
+A. telarke
+B. semenarke
+✓C. adrenarke
+D. koitarke
+E. menarke
+____________________________________________________________________________
+Question #: 16
+Det är viktigt att läkare reagerar på symptom och tecken som ger misstanke om lungcancer.
+Vilket av nedanstående alternativ är INTE tydligt associerat med lungcancer?
+A. Pneumoni
+✓B. Ledsvullnad
+C. Heshet
+D. Andfåddhet
+E. Hemoptys
+____________________________________________________________________________
+Question #: 17
+Digitalispreparat har gynnsamma effekter hos en del patienter med hjärtsvikt och i synnerhet de med
+förmaksflimmer.
+Via vilken mekanism verkar digitalis?
+A. Inhiberar de K+-kanaler som är aktiva under den snabba repolariseringsfasen (Fas 3)
+✓B. Hämmar Na+/K+-ATPas
+C. Aktiverar de Ca2+-kanaler som är aktiva under platåfasen (Fas 2)
+D. Defosforylerar fosfolamban
+E. Reducerar de vagala effekterna på muskarina receptorer
+____________________________________________________________________________
+Question #: 18
+Diskbråck mellan vertebra L4 och L5 påverkar främst spinalnerv L5.
+Styrkan i vilken av följande muskler bör i första hand testas när man misstänker påverkan av denna spinalnerv?
+A. m. iliopsoas
+B. m. quadriceps femoris
+C. m. biceps femoris
+D. m. gastrocnemius
+✓E. m. tibialis anterior
+____________________________________________________________________________
+Question #: 19
+Distriktsläkaren skriver ut omeprazol till en patient som har gastrit.
+Vad har omeprazol för verkningsmekanism?
+A. Binder till parietalceller och hämmar en hormonreceptor
+B. Stimulerar tillväxtfaktorer på parietalceller
+C. Inhiberar sekretion av gastrin
+✓D. Binder till protonpumpen och hämmar denna
+E. Stimulerar sulfenamidproduktion och sekretion av gastrin i parietalceller
+____________________________________________________________________________
+Question #: 20
+Du har opererat bort en hudförändring på en patient. Förändringen har du skickat till patologen för undersökning,
+och i svaret därifrån står det att ”förändringen inte är radikalt exciderad”?
+Vad innebär det att en förändring INTE är radikalt exciderad?
+A. Att förändringen är benign
+B. Att förändringen uppvisar tydliga tecken på malignitet
+C. Att förändringen ej uppvisar några tecken på malignitet
+✓D. Att förändringen ej är avlägsnad i sin helhet
+E. Att förändringen inte är benign
+____________________________________________________________________________
+Question #: 21
+Du jobbar på en hälsocentral och föräldrarna till Lovisa, 3 månader kommer inspringande med henne i famnen. De
+berättar att hon blev alldeles blå och att de inte fick kontakt med henne. Detta hände för 5 minuter sedan när de var i
+en närliggande butik och handlade.
+Efter att du gjort en systematisk undersökning och funnit helt normala förhållanden, vad är bästa nästa åtgärd?
+A. Observera i 4 timmar på hälsocentralen
+B. Skriva remiss för EEG
+C. Ge lugnande besked och skicka hem patienten
+D. Avråda från vaccinationer de närmaste 2 månaderna
+✓E. Remittera till barnklinik för observation
+____________________________________________________________________________
+Question #: 22
+Du träffar Elsa, 18 månader på barnavårdscentralen.
+Vad kan du förvänta dig i hennes utveckling?
+A. Hon kan hoppa på ett ben
+B. Hon har slutat använda blöja
+C. Hon har slutat använda napp
+✓D. Hon kan springa och klättra i trappan
+E. Hon kan knäppa knappar
+____________________________________________________________________________
+Question #: 23
+Du träffar en 25-årig tidigare frisk man på din mottagning. Han kommer eftersom han har haft diarrébesvär sedan
+flera månader och du misstänker inflammatorisk tarmsjukdom.
+Vilket av följande prov kan bäst stärka din misstanke?
+A. Faeces-Helicobakter pyloriantigen
+B. Serum-transglutaminasantikroppar
+C. Serum-CCP (cyklisk citrullinerad peptid)-antikroppar
+✓D. Faeces-kalprotektin
+E. Faeces-Hb
+____________________________________________________________________________
+Question #: 24
+Du träffar en 72-årig man med gott allmäntillstånd men hög feber. Han har inkommit från hemmet med misstänkt
+pneumoni.
+Vilken av följande analyser/undersökningar har högst prediktionsvärde för diagnosen pneumokockpneumoni?
+✓A. Urinantigenanalys
+B. Lungröntgen
+C. Nasofarynxodling
+D. B-LPK
+E. Sputumodling
+____________________________________________________________________________
+Question #: 25
+Du träffar, Tea 72 år, på kirurgmottagningen. Efter en tid med blod i avföringen har hon diagnosticerats med en
+högt belägen rektalcancer. Du remitterar henne till onkologkliniken för preoperativ strålbehandling inför senare
+främre rektalresektion.
+Vilken av nedanstående akuta biverkningar löper Tea störst risk att drabbas av till följd av strålbehandlingen?
+A. Rektala blödningar
+B. Håravfall och hudrodnad
+✓C. Illamående och diarrér
+D. Täta trängningar och sveda vid miktion
+E. Förstoppning och buksmärtor
+____________________________________________________________________________
+Question #: 26
+Du är jour på en akutmottagning. Du träffar en 36-årig man som söker för buksmärtor, illamående och kräkningar.
+I status noteras blodtryck 90/60 mmHg, puls 105/min.
+Du noterar att han har ökad pigmentering (även i handflatorna) trots att det är januari månad och patienten förnekar
+att han varit utomlands sista tiden.
+Vilken diagnos bör du misstänka i första hand?
+A. Akut intermittent porfyri
+B. Ulcerös kolit
+C. Graves sjukdom
+✓D. Addisons sjukdom
+E. Conns syndrom
+____________________________________________________________________________
+Question #: 27
+Ebba 36 år har precis fött sitt 5:e barn i fullgången tid. Ebba hade förvärkar under 3 dygn och sov dåligt.
+Förlossningen har varit långdragen och barnmorskan har stimulerat med oxytocin. Den nyfödda flickan vägde 2800
+gram. Ebba börjar blöda rikligt efter placentas avgång.
+Vilken är den mest troliga orsaken till Ebbas blödning?
+A. Primär koagulationsrubbning
+B. Lacerationsskador i ändtarmen
+C. Cervixruptur
+✓D. Uterusatoni
+E. Lacerationsskador i vaginalväggen 
+____________________________________________________________________________
+Question #: 28
+Eliminering av etanol uppvisar 0:te ordningens kinetik (”mättnadskinetik").
+Vad innebär detta?
+A. Elimineringshastigheten minskar över tid eftersom njurutsöndringen mättas
+B. Alkohol minskar glomerulära filtrationshastigheten vilken i sin tur minskar alkoholutsöndringen
+✓C. En konstant mängd etanol elimineras per tidsenhet oberoende av blodalkoholkoncentrationen
+D. Etanol binder inte till serum-albumin
+E. Elimineringshastigheten är proportionerlig till blodalkoholkoncentrationen
+____________________________________________________________________________
+Question #: 29
+En 13-årig pojke kommer till akutmottagningen på grund av hälta. Hältan utvecklades efter att han blivit tacklad
+under fotbollsspel veckan innan. Han klagar nu på smärta i vänster höft och vänster knä. Vid undersökning är han
+afebril och verkar överviktig. Hans vänstra ben är utåtroterat och lite kortare än högra benet.
+Vilken är den mest sannolika diagnosen?
+A. Mb Perthes
+B. Höftdysplasi
+C. Coxitis simplex
+D. Mb Osgood-Schlatter
+✓E. Physiolysis capitis femoris
+____________________________________________________________________________
+Question #: 30
+En 17-årig kille på idrottsgymnasiet tävlar i fotboll. Att döma av hans anamnes och din tolkning av en PEF-kurva så
+har han astma som trots behandling inte är bra kontrollerad. Han har hittills behandlats med högdos
+inhalationssteroid (budenosid) + formoterol (LABA) morgon och kväll, och salbutamol (SABA) som han tar vid
+behov samt 2-3 doser före träning och ansträngning.
+Vilket läkemedel bör du i första hand lägga till för att förbättra och motverka hans ansträngningsutlösta
+astmabesvär?
+✓A. Montelukast (leukotrienhämmare)
+B. Desloratadin (antihistamin)
+C. Roflumilast (fosfodiesteras-4-hämmare)
+D. Benralizumab (anti-IL5)
+E. Ipratropium (antikolinergikum)
+____________________________________________________________________________
+Question #: 31
+En 18-årig man kommer till hälsocentralen på grund av andfåddhet i samband med ansträngning och att han inte
+orkar springa och åka skidor lika snabbt som sina kompisar. Besvären har blivit mer uttalade det senaste halvåret.
+Status:
+AT: Opåverkad, inga ödem.
+Cor: regelbunden rytm, normala toner utan blåsljud, blodtryck: 114/84 mmHg
+Pulm: Normal perkussionston och normala andningsljud även vid forcerad expiration.
+Vilken diagnos är den mest sannolika?
+A. Kroniskt obstruktiv lungsjukdom
+✓B. Astma
+C. Arytmisjukdom
+D. Lungfibros
+E. Kardiomyopati
+____________________________________________________________________________
+Question #: 32
+En 2-årig pojke, som nyligen behandlats för öroninflammation kommer till akutmottagningen med sin mamma.
+Mamman berättar att pojken har hög feber, vägrar att äta och inte vill stödja sig på sitt vänstra ben. Vid
+undersökningen noteras att pojken håller sitt vänstra ben delvis flekterat, abducerat och utåtroterat. Han gråter
+intensivt vid försök att undersöka höften.
+Vilken är den mest sannolika diagnosen?
+A. Mb Perthes
+B. Coxitis simplex
+C. Höftdysplasi
+✓D. Septisk artrit
+E. Physiolysis capitis femoris
+____________________________________________________________________________
+Question #: 33
+En 22-årig man blev tacklad under en fotbollsmatch. Han berättar att han kände att hans högra knä klickade till och
+därefter omedelbart började svullna. Han blev tvungen att avbryta matchen. Vid undersökningen finner du positiv
+Lachmans test.
+Vilken är den mest sannolika diagnosen?
+A. Lateral kollateralligamentskada
+B. Medial kollateralligamentskada
+✓C. Främre korsbandsskada
+D. Bakre korsbandsskada
+E. Medial meniskruptur
+____________________________________________________________________________
+Question #: 34
+En 25-årig kvinna fick ett slag mot sitt högra knä under en fotbollsmatch. Hon beskriver att hennes knä blev träffat
+från höger sida. Sedan dess har hon haft svårt att belasta benet och känner att knät är instabilt. Vid undersökningen
+är hennes knä spänt men inte svullet. Du finner påtaglig vackling vid valgus-stress.
+Vilken är den mest sannolika diagnosen?
+✓A. Medial kollateralligamentskada
+B. Bakre korsbandsskada
+C. Främre korsbandsskada
+D. Lateral kollateralligamentskada
+E. Medial meniskruptur
+____________________________________________________________________________
+Question #: 35
+En 25-årig, tidigare frisk man, kommer till akutmottagningen på grund av tilltagande pareser i armar och ben.
+Symtomen började för tre dagar sedan med domningar i benen som gradvis har spridit sig till armarna. I status
+noteras nedsatt kraft och sensibilitet i extremiteterna och avsaknad av reflexer. Läkaren misstänker en akut
+demyeliniserande polyneuropati och inleder diagnostiken med en lumbalpunktion.
+Vilket likvorfynd stämmer bäst med den misstänkta diagnosen (provsvaren anges med referensvärden inom
+parentes)?
+A. Csv-Polycyter 110 x 106
+/L (<1)
+B. Csv-Monocyter 110 ×106
+/L (0-5)
+✓C. Csv-Protein 0,95 g/L (<0,26)
+D. Csv-Laktat 5,1 mmol/L (1,1-2,4)
+E. Csv-Glukos 1,2 mmol/L (60 % av P-glukos)
+____________________________________________________________________________
+Question #: 36
+En 26-årig man blev tacklad under en hockeymatch. Han klagar på smärta i sin vänstra axel och oförmåga att röra
+armen. Vid undersökningen finner du ändrad axelkontur och en resistens anteriort i fossa infraclavicularis.
+Vilken är den mest sannolika diagnosen?
+A. Bakre axelluxation
+B. Ruptur av bicepssenan
+C. Klavikelfraktur
+✓D. Främre axelluxation
+E. Rotatorcuffruptur
+____________________________________________________________________________
+Question #: 37
+En 27-årig kvinna kommer till hälsocentralen på grund av hosta, feberkänsla av och till, samt att hon inte mår bra.
+Hon är född i Afrika, har bott i Sverige i 8 år och arbetar som lärare.
+Patienten har blåröda upphöjda knölar på underbenen, normal spirometri och lungröntgen visar hiluslymfom och
+stråkigt infiltrat höger ovanlob.
+Vilket tillstånd bör du i första hand misstänka?
+A. Pulmonell hypertension
+B. Interstitiell lungsjukdom
+✓C. TBC
+D. Sarkoidos
+E. Tularemi
+____________________________________________________________________________
+Question #: 38
+En 27-årig man kommer till hälsocentralen då han önskar sjukskrivning på grund av nedstämdhet och trötthet. Han
+uppvisar egentligen inget avvikande i psykiskt status eller beteende. Det framkommer dock att han ägnar flera
+timmar per dag åt olika ritualer och säkerhetsbeteenden. Han kollar att spisen är avstängd, att kylen är stängd och
+att dörren är låst. Han tvättar händerna ofta och länge, Han kan ägna mer än en timme åt att kolla att slipsen sitter
+rätt. Hans beteenden ökar i omfattning när han är trött eller stressad.
+Han är medveten om att detta är ”fel”, men då han försöker stå emot får han kraftig ångest. Han önskar hjälp, men
+vet inte hur det ska gå till.
+Vilken huvuddiagnos misstänker du i det här läget?
+A. Psykotiskt syndrom
+B. Generaliserat ångestsyndrom
+C. Högfungerande autism
+✓D. Tvångssyndrom
+E. Depression
+____________________________________________________________________________
+Question #: 39
+En 30-årig man reagerade med andningssvårigheter och blodtrycksfall i samband med en penicillinkur för 6 år
+sedan. Han har nu diagnosticerats med en Streptocock A-positiv tonsillit.
+Vilket av följande antibiotika är mest lämplig i detta fall?
+A. Rifampicin
+B. Amoxicillin
+C. Ciprofloxacin
+✓D. Klindamycin
+E. Doxycyklin
+____________________________________________________________________________
+Question #: 40
+En 30-årig somatiskt frisk man med tidigare depressioner och suicidförsök blev för 2 månader sedan inlagd på
+psykiatrin för en manisk episod. Med diagnosen bipolär sjukdom blev han insatt på profylaktisk
+stämningsstabiliserande medicinering. Epikris saknas. Nu ringer patientens sambo till hälsocentralen och berättar att
+mannen har yrsel, talar sluddrigt, skakar, har diarréer, konstiga ögonrörelser och är mycket trött.
+Det kan finnas många olika orsaker till symptomen men vilken orsak bör du i första hand misstänka?
+A. Magsjuka
+B. Hyperthyreos
+✓C. Litiumintoxikation
+D. Drogintag
+E. Stroke
+____________________________________________________________________________
+Question #: 41
+En 34-årig kvinna remitteras till hälsocentralen. Hon är gift och har 2 småbarn. Hon har blivit alltmer trött och
+nedstämd sedan ett par månader. Hon sökte vård på företagshälsovården för tre veckor sedan för samma besvär och
+analyser visade då Hb 119 g/l, b-glukos 5,1 mmol/L, CRP <5 och TSH 11 mIU/L.
+Status:
+Allmäntillstånd: Normalviktig, temp 37,3°C.
+Mun och svalg: Lätt rodnat i bakre svalget, men ej förstorade tonsiller
+Tyreoidea: Oöm och normalstor utan knölar
+Hjärta: regelbunden rytm 75/min
+Lungor: utan anmärkning
+Blodtryck 125/75 mmHg
+Laboratorieprover (referensintervall):
+B-Hb 116 g/L (117-153)
+B-MCV 97 fL (82-98)
+LPK 5,4 ×109
+/L (3,5-8,8)
+TPK 276 1 ×109
+/L (165-387)
+CRP 10 mg/L (<3)
+TSH 21 mIU/L (0,27-4,2)
+fT4 6,2 pmol/L (12-22)
+S-Antikroppar mot tyreoperoxidas (TPO) är positiva.
+Vilken är nu bästa handläggning av patienten?
+A. Spårjodsundersökning och 99Technetium-skintigrafi av sköldkörteln
+B. Magnetröntgen av hypofysen
+✓C. Påbörja behandling med L-Tyroxin 50 mikrogram ×1
+D. Uppföljande provtagning om 1 månad: TSH, fT4 och antikroppar mot tyreoperoxidas (TPO)
+E. Provtagning: järnstatus, B12, folat, homocystein
+____________________________________________________________________________
+Question #: 42
+En 34-årig man som spelat squash har fått bollen mot höger öga. Det är ordentligt svullet kring ögat, han uppger lite
+suddig syn (visus 0,9), men framför allt ett dubbelseende som gör att han vill blunda med det skadade ögat.
+Dubbelseendet blir värre när han tittar uppåt.
+Du ser inga övriga skador.
+Vilken är den mest sannolika orsaken till dubbelseendet?
+✓A. Orbitabottenfraktur
+B. Svullnad i macula lutea
+C. Traumatisk katarakt
+D. Perforerande ögonskada
+E. Kvarvarande främmande kropp
+____________________________________________________________________________
+Question #: 43
+En 35-årig kvinna söker vård på grund av tilltagande smärta i sin högra axel sedan 8 timmar. Det finns inget trauma
+i anamnesen. Smärtan är värst vid abduktion, särskilt vid ca 100°-130°. Du finner också kraftig palpatorisk ömhet
+subakromiellt.
+Vilken är den mest sannolika diagnosen?
+A. Frozen shoulder
+B. Rotatorcuffruptur
+C. Ruptur av bicepssenan
+D. Impingementsyndrom
+✓E. Supraspinatustendinit
+____________________________________________________________________________
+Question #: 44
+En 35-årig man har en svullnad på halsen. Ingen uppenbar orsak till svullnaden har hittats, och trots behandling med
+antibiotika har den ej försvunnit.
+Vad bör du göra nu?
+A. Ge bredspektrumantibiotika
+✓B. Finnålspunktion av svullnaden på halsen
+C. Ny återbesökstid om 1 månad
+D. Ge en ny antibiotikakur av samma typ som tidigare, men med dubbelt så lång behandlingstid
+E. Operera bort svullnaden
+____________________________________________________________________________
+Question #: 45
+En 43-årig kvinna har frekventa och långdragna underlivsblödningar.
+Vilken av följande behandlingar är bäst?
+A. Östrogensubstitution
+B. Tranexamsyra
+✓C. Cykliskt gestagen eller hormonspiral
+D. Kombinerade P-Piller
+E. Östrogen och cyklisk gestagen
+____________________________________________________________________________
+Question #: 46
+En 44-årig man har skurit sig i höger ringfinger och du planerar sy ihop såret med två suturer.
+Vilken smärtstillning är lämpligast för att åstadkomma bra anestesi i fingret?
+A. Hydromorfon
+B. Morfin
+C. Paracetamol
+✓D. Lidocain
+E. Efedrin
+____________________________________________________________________________
+Question #: 47
+En 50-årig kvinna kommer till hälsocentralen på grund av dyspné som tilltagit under det senaste halvåret.
+Andfåddheten märks vid fysisk ansträngning som promenad och trappgång, men inte i vila eller i liggande. Under
+de sista veckorna har andfåddheten följts av bröstsmärtor under ansträngning och vid något tillfälle har det svartnat
+för ögonen vid gång i trappa.
+Distriktsläkaren tar anamnes och genomför ett noggrant status. Frånsett aktuella besvär har Stina varit helt frisk,
+röker inte och äter inga mediciner. I status noteras fyllda halsvener i sittande men inga perifera ödem, accentuerad
+andra ton vid hjärtauskultation men för övrigt inget anmärkningsvärt, blodtryck 120/80 mmHg och över lungfälten
+hörs vesikulärt andningsljud utan biljud.
+Vilo-EKG visar sinusrytm, frekvens 75/min, högerställd el-axel, uttalade R-vågor i avledning V1-V3 och Tvågsinversioner i avledning V1-V4.
+Patienten skickas till närmaste sjukhus efter telefonkontakt med medicinjouren. Vid ankomst samma dag ordineras
+en ekokardiografisk undersökning av hjärtat.
+Vad kommer den ekokardiografiska undersökningen mest sannolikt visa?
+A. Dilaterad vänster och höger kammare med nedsatt ejektionsfraktion
+✓B. Dilaterad höger kammare med D-format septum
+C. Dilaterade förmak och restriktivt fyllandsmönster i vänster kammare
+D. Normalstor vänster kammare med förtjockat septum
+E. Akinesi inom septum och vänster kammares framvägg och nedsatt ejektionsfraktion
+____________________________________________________________________________
+Question #: 48
+En 55 år gammal kvinna inkommer med en distal radiusfraktur. Hon kontrolleras med röntgen och gipsbehandlas i
+4 veckor. Vid återbesöket har hon besvär att sträcka på ett finger.
+Vilken är den vanligast förekommande senrupturen kopplad till en distal radiusfraktur?
+A. Extensor communis digiti 2
+✓B. Extensor pollicis longus
+C. Extensor digiti minimi
+D. Extensor indicis proprius
+E. Flexor digitorum superficialis
+____________________________________________________________________________
+Question #: 49
+En 56 årig man, med en historia av generaliserad ångestproblematik, återkommande depressioner och ulcerös kolit,
+söker akut för ångestdepressiva besvär och uttalade självmordstankar/-planer. Han uppger ordnade förhållanden och
+att det inte har ”hänt något speciellt” som kan förklara de psykiska besvären. Patienten behandlas vanligtvis med T.
+sertralin 100 mg/d, T. difenhydramin 50 mg/d samt T. buspiron 30 mg/d. Efter ett besök på hälsocentralen på grund
+av ökande depression och självmordstankar, har han även fått behandling med T. bupropion 150 mg/d samt T.
+diazepam 30 mg/d. Patienten har behandlats med Inj. adalimumab (anti-TNF) 40 mg IM/2 v för sin tarmsjukdom.
+För drygt 3 månader sedan fick patienten ett skov av ulcerös kolit som behandlades med T. prednisolon 80 mg/d
+initialt, som trappades ner och avslutades för 1 vecka sedan.
+Nu är patienten helt uppgiven och hjälpsökande, gråter och är förtvivlad. ”Under 30 år har jag aldrig varit så
+deprimerad, jag kommer aldrig att bli frisk”. Somatisk undersökning inklusive riktad lab-undersökning utfaller
+normalt. I psykiskt status noteras att patienten är orienterad till tid, plats, person och situation. Han är trött, klar och
+redig, ger god kontakt och uppvisar inga vanföreställningar. Han har minskad psykomotorik, är svag, ångestdriven
+och suicidal.
+Vad är den mest troliga orsaken till patientens depressiva skov?
+A. Behandling med diazepam
+B. Skov av ulcerös kolit
+C. Behandling med sertralin i kombination med bupropion
+✓D. Utsättning av prednisolon
+E. Behandling med adalimumab
+____________________________________________________________________________
+Question #: 50
+En 63-årig man med kost- och tablettbehandlad typ-2 diabetes mellitus insjuknar med plötsligt påkommen
+fumlighet. Undersökningar påbörjas på akutmottagningen 6 timmar efter symtomdebut.
+Status:
+Allmäntillstånd: RLS 1, klar och redig.
+Cor: Regelbundet, normofrekvent. Karotider utan biljud.
+Blodtryck: 176/92 mmHg.
+Neurologi: Svaghet i arm och ben samt känselnedsättning på höger sida utan andra neurologiska symptom.
+EKG visar regelbunden sinusrytm. Datortomografi hjärna och datortomografi-angiografi görs 7 timmar efter
+symtomdebut; dessa är båda väsentligen utan anmärkning.
+Mannen har förmodligen drabbats av en ischemisk stroke.
+Vilken är den troliga förklaringen till denna?
+A. Inget är mer troligt än något annat utan ytterligare utredning krävs
+B. Kryptogen orsak
+C. Storkärlssjukdom
+D. Kardioembolisk stroke
+✓E. Lakunär infarkt
+____________________________________________________________________________
+Question #: 51
+En 64 årig man kommer till akutmottagningen med plötsligt isättande svaghet i höger arm och ben, nedsatt sensorik
+inom samma område samt afasi.
+Vilket kärl är mest troligt drabbat hos denna patient?
+✓A. a. cerebri media sinister
+B. a. cerebri posterior dexter
+C. a. cerebri anterior dexter
+D. a. posterior inferior cerebellaria sinister
+E. a. cerebri posterior sinister
+____________________________________________________________________________
+Question #: 52
+En 65-årig man halkade på gatan och föll så att han slog i sitt vänstra knä. Hans knä är svullet och ömt vid
+undersökning. Han kan gå och stödja på benet med viss hjälp, men han kan inte aktivt sträcka knäleden eller lyfta
+underben och fot från underlaget när han ligger.
+Vilken är den mest sannolika diagnosen?
+A. Tibiakondylfraktur
+B. Främre korsbandsskada
+C. Medial kollateralligamentskada
+✓D. Patellafraktur
+E. Bakre korsbandsskada
+____________________________________________________________________________
+Question #: 53
+En 67-årig rökande kvinna har diagnosticerats med kroniskt obstruktiv lungsjukdom (KOL) stadium 3D. Hon har
+ingen tidigare behandling och har upprepade exacerbationer, dyspne vid ansträngning och kronisk bronkit.
+Vilken av nedanstående åtgärder bör prioriteras i första hand?
+A. Behandling med långverkande β2-stimulerare
+B. Behandling med fosfodiesteras-4 (PD-4) hämmare
+✓C. Rökstopp
+D. Behandling med LAMA (långverkande antikolinergikum)
+E. Behandling med inhalationssteroid
+____________________________________________________________________________
+Question #: 54
+En 70-årig man med skelettmetastaserad prostatacancer (stabilt tillstånd sedan 1 år av behandling med GnRHanalog) söker vård akut på grund av smärta i bröstryggen. Du tar en riktad anamnes.
+Vilken information är viktigast att få fram?
+A. Smärtanamnes inklusive karaktär, intensitet, duration
+B. Minskad aptit eller ofrivillig viktnedgång
+C. Aktuell smärtmedicinering
+✓D. Nytillkomna fokala neurologiska symtom
+E. Infektionstecken såsom feber
+____________________________________________________________________________
+Question #: 55
+En 70-årig tidigare frisk kvinna kommer in till akuten med plötsligt påkomna buksmärtor och utspänd buk. Hon har
+kräkts några gånger. Hon är febril. Datortomografi-buköversikt visar cekalvolvulus.
+Vilken behandling är mest korrekt?
+✓A. Operation med sannolikt högersidig hemikolektomi
+B. Operation med sannolikt cekopexi där cekalpolen reponeras och fästs mot bukväggen
+C. Ventrikelsond och rönten med kontrastpassage
+D. Reposition med grov rektalsond
+E. Reposition med ingjutning av kontrast i kolon
+____________________________________________________________________________
+Question #: 56
+En 72-årig man kommer till dig efter en fallolycka i hemmet. Han klagar på högersidig axelsmärta. Vid
+undersökning av patienten finner du distinkt ömhet subakromiellt, att patienten bara minimalt kan abducera sin arm
+och ett positiv dropparm-test. Röntgenundersökningen visar ingen skelettskada.
+Vilken är den mest sannolika diagnosen?
+A. Ruptur av bicepssenan
+B. AC-leds artros
+C. Impingementsyndrom
+✓D. Rotatorcuffruptur
+E. Frozen shoulder
+____________________________________________________________________________
+Question #: 57
+En 76-årig kvinna med hypertoni och hjärtsvikt behandlas med T. ramipril 10 mg ×1 och T. metoprolol 50 mg ×1.
+Hon inkommer till akutmottagningen efter 2 dygns kräkningar och diarréer. Blodtryck: 95/50 mmHg.
+Provsvar: (Referensvärden inom parentes)
+B-Hb 159 g/L (117 -153)
+P-Na 149 mmol/L (137-145)
+P-K 5,1 mmol/L (3,5-4,6)
+P-Kreatinin 190 umol/L (<90)
+Vilket av följande är den bästa fortsatta handläggningen?
+✓A. Sätt ut blodtrycksmedicinerna och ge Ringer-Acetat 1000 ml i.v.
+B. Sätt ut blodtrycksmedicinerna och ge akut hemodialys
+C. Ge insulin och glukos 5 % 1000 ml i.v.
+D. Ge Ringer-Acetat 1000 ml i.v. och resonium 30 g p.o.
+E. Ge resonium 30 g p.o. och furosemid i.v.
+____________________________________________________________________________
+Question #: 58
+En 80-årig man behandlas med warfarin på grund av förmaksflimmer. Han har levt ett friskt pensionärsliv tills han
+för en timme sedan plötsligt fått svårt att uttrycka sig och blivit svag i höger arm och ben.
+Efter en akut datortomografi rapporterar radiologen att: ”I vänster talamus syns en högattenuerande förändring, ca 3
+cm i diameter”.
+Vilken är den bästa behandlingen akut?
+A. Trombolys
+✓B. Protrombinkomplex
+C. Vitamin K
+D. Plasma
+E. Trombektomi
+____________________________________________________________________________
+Question #: 59
+En 82-årig väsentligen frisk man har efter ett fall för 3 veckor sedan fått smärtor i vänster del av bäckenet. Han
+söker nu vård på akutmottagningen eftersom smärtorna inte försvunnit. Vid undersökning kan mannen promenera
+runt i undersökningsrummet men han har ont vid palpation i vänster ljumskregion. Röntgen bäcken och höftleder
+visar frakturer i ramus superior och ramus inferior os pubis sinister, för övrigt inga synliga skelettskador.
+Vilken är den lämpligaste handläggningen?
+A. Datortomografi för att utesluta en inkilad höftfraktur
+B. Operation av frakturen inom 2 veckor
+C. Inläggning och intensiv sjukgymnastik
+✓D. Information och smärtlindring vid behov
+E. Akut operation av frakturen
+____________________________________________________________________________
+Question #: 60
+En 83-årig kvinna har för två dagar sedan opererats för en höftfraktur. Man tycker inte på vårdavdelningen att hon
+är klar och redig. En urinsticka är positiv, och då hon är febril misstänks urinvägsinfektion. Ett minimental-test
+visar 23 av 30 poäng.
+Vad säger resultat av minimental-testet?
+A. Patienten är konfusorisk
+✓B. Kognitiv nedsättning
+C. Det är normalt givet den genomgångna operationen
+D. Testet säger ingenting om denna patient
+E. Talar för demensutveckling
+____________________________________________________________________________
+Question #: 61
+En 88-årig kvinna kommer till akutmottagningen på grund av hosta sedan 4 dagar, temp 39° C och CRP 320 mg/l
+(referens <3). Trots 60 % syrgas på mask är saturationen bara 85 % på pulsoxymeter. Efter 10 minuter med CPAP
+med PEEP 5 cm H2O med 60 % syrgas har saturationen stigit till 94 %.
+Vad förklarar bäst att saturationen stigit?
+A. Syrgasförbrukningen minskar med CPAP
+B. CPAP minskar andningsarbetet
+✓C. Ventilationen matchar bättre perfusionen i lungan
+D. Det ökade partialtrycket för syrgas
+E. Perfusionen i lungan förbättras
+____________________________________________________________________________
+Question #: 62
+En 9-årig pojke kommer tillsammans med sin mamma till distriktsläkaren på grund av tilltagande smärta vid gång.
+Vid undersökningen är han afebril men rörligheten i hans högra höft är inskränkt på grund av smärta.
+Röntgenundersökning visar att högra caput femoris är delvis fragmenterad och antytt tillplattad.
+Vilken är den mest sannolika diagnosen?
+A. Morbus Osgood-Schlatter
+B. Septisk artrit
+C. Physiolysis capitis femoris
+D. Coxitis simplex
+✓E. Morbus Perthes
+____________________________________________________________________________
+Question #: 63
+En bakterieinfektion kan innebära en stor risk för en gravid kvinna och hennes foster. Samtidigt kan vissa
+antibiotika i sig utgöra en risk för fostret.
+Vilket av följande antibiotika bör undvikas under 1:a trimestern?
+✓A. Erytromycin
+B. Pivmecillinam
+C. Vankomycin
+D. Tetracyklin
+E. Klindamycin
+____________________________________________________________________________
+Question #: 64
+En behandling av mild till medelsvår Restless Legs Syndrome (RLS) är intermittent bruk av levodopa med tillägg av
+antingen benserazid eller karbidopa.
+Varför kompletteras levodopa med benserazid eller karbidopa?
+A. För att hämma katekol-o-metyltransferas, som bryter ned dopamin
+B. För att blockera dopaminerga receptorer, och därmed minska risken för psykoser
+✓C. För att minimera perifera omvandlingen av levodopa till dopamin
+D. För att hämma monoaminoxidas, som bryter ner dopamin
+E. För att öka absorptionen av levodopa i tarmen
+____________________________________________________________________________
+Question #: 65
+En kvinna har dysuri och smärta från nedre delen av buken.
+Vad är den rekommenderade metoden för urinprovstagning i detta fall?
+A. Insamling av urin när strålen är svag
+B. Suprapubisk aspiration av urin
+C. Morgonurin
+✓D. Mittstråleurin
+E. Urin via kateter
+____________________________________________________________________________
+Question #: 66
+En man söker vård för huvudvärk, dubbelseende och nedhängande höger ögonlock. Höger pupill är vidgad och
+reagerar inte på ljus. Höger öga är lätt abducerat, och dess blick kan varken föras medialt förbi medellinjen eller
+riktas uppåt. Vänster öga har normal motorik och pupillreflexer. Övriga kranialnervsfunktioner är normala.
+Vilken kranialnerv är påverkad hos denna patient?
+A. n. trochlearis
+✓B. n. oculomotorius
+C. n. opticus
+D. n. facialis
+E. n. abducens
+____________________________________________________________________________
+Question #: 67
+En normal vuxen person har en total blodvolym på cirka 5 liter.
+Var i kärlsystemet finns den största delen (volymen) av blodet?
+A. Jämnt fördelat mellan stora artärer, arterioler, kapillärer och vener
+B. I kapillärer
+C. I arterioler
+D. I stora artärer (främst aorta)
+✓E. I vener
+____________________________________________________________________________
+Question #: 68
+En patient har beställt tid på hälsocentralen på grund av oklar andfåddhet som inte tidigare diagnosticerats eller
+behandlats. Innan han träffar dig har han registrerat en PEF-kurva.
+Hur bör PEF-kurvan tolkas?
+A. Kroniskt obstruktiv lungsjukdom
+B. Går ej att bedöma på grund av dålig kvalitet
+✓C. Astma
+D. Sarcoidos
+E. Normal PEF-kurva
+____________________________________________________________________________
+Question #: 69
+En patient som amputerat en arm eller ett ben kan i efterförloppet drabbas av ett långvarigt smärttillstånd, så kallad
+fantomsmärta.
+Vilken typ av smärttillstånd är fantomsmärta ett exempel på?
+A. Central sensitisering
+B. Hyperalgesi
+C. Inflammatorisk smärta
+✓D. Neuropatisk smärta
+E. Allodyni
+____________________________________________________________________________
+Question #: 70
+En patient som genomgått cholecystektomi har fått diagnosen choledocuskonkrement och kirurgen har föreslagit
+ERCP.
+Vilket av följande beskriver bäst ERCP?
+A. En endoluminal retrograd cholangioskopi och pancreaticoskopi
+✓B. En endoskopisk undersökning där man kan avbilda de djupa gallvägarna med röntgen och göra
+interventioner
+C. En endoskopisk undersökning där man kan avbilda pancreas och de djupa gallvägarna med ultraljud och ta
+cytologiprov
+D. En endoskopisk retroperitoneal cholangiopankreatisk operation för gallsten
+E. En kombination av endoskopi och laparoskopi för att avbilda djupa gallvägar och samtidigt avlägsna
+konkrement
+____________________________________________________________________________
+Question #: 71
+En patientcentrerad konsultation kan delas upp i tre huvuddelar.
+Vilka är dessa tre delar?
+A. Icke verbal kommunikation, beslut och uppföljning
+B. Föreställningar, förväntningar och farhågor
+C. Tanke, oro och önskan
+✓D. Patientens del, läkarens del och gemensam del
+E. Empati, kulturella ramar och sammanfattning
+____________________________________________________________________________
+Question #: 72
+En student kommer till hälsocentralen i slutet av maj på grund av besvär i form av rinnsnuva, nästäppa, nysningar,
+klåda i ögonen och rinnande ögon.
+Hon har inte upplevt några som helst andningsbesvär. Hon kan få klåda i munnen när hon äter råa morötter, kiwi,
+päron och nötter.
+Du misstänker att detta rör sig om en björkpollenallergi och vill sätta in medicinering.
+Vad av nedanstående krävs för allergidiagnos i detta fall?
+A. RAST-blodprov
+B. Total eosinofiler i blod
+C. Pricktest
+D. Total IgE i blod
+✓E. Anamnesen
+____________________________________________________________________________
+Question #: 73
+En tidigare frisk 55-årig kvinna ska genomgå en höftledsplastik om 3 veckor. Det kan bli nödvändigt med
+blodtransfusion i samband med operationen.
+Vilken är den mest korrekta provtagningen för att man vid behov ska kunna genomföra en blodtransfusion under
+operationen?
+✓A. Ta prov för blodgruppering 3 veckor före, samt prov för BAS-test en dag före operationen
+B. Ta prov för blodgruppering 3 veckor före, samt prov för DAT en dag före operationen
+C. Ta prov för blodgruppering och BAS-test samtidigt 3 veckor före operationen
+D. Ta prov för blodgruppering och BAS-test samtidigt en dag före operationen
+E. Ta prov för blodgruppering och DAT samtidigt 3 veckor före operationen
+____________________________________________________________________________
+Question #: 74
+Endotoxiner kan utlösa sjukdom men används också som adjuvans i vacciner.
+Vilket av följande är ett endotoxin?
+A. Koleratoxin
+B. Pneumokockkapseln
+✓C. Lipopolysackarider
+D. Difteritoxin
+E. Pesttoxin
+____________________________________________________________________________
+Question #: 75
+Enzymer återfinns i samtliga levande organismer och möjliggör reaktioner som annars inte vore möjliga under de
+betingelser vi har i en cell.
+Med vilken mekanism fungerar enzymer?
+A. De gör reaktionen exergon
+B. De förskjuter jämvikten i en reaktion så att den gynnar bildning av produkt men inte reaktant.
+C. De hämmar reaktionen där produkt återbildas till reaktant i en jämvikt
+✓D. De sänker aktiveringsenergin mellan reaktant och produkt
+E. De höjer energinnivån för reaktanterna så att de lättare övergår till produkt
+____________________________________________________________________________
+Question #: 76
+Erik, 84 år kommer till hälsocentralen då han sedan några veckor har varit ovanligt trött och haft "ont i hela
+kroppen". I morse försvann plötsligt synen på höger öga. Han har ingen smärta eller rodnad i ögat.
+Vid undersökning finner du en god insyn till ögonbotten på båda ögonen och en normal röd ögonbottenreflex, men
+att synskärpan är 0 på höger öga (Erik kan inte ens se ljuset från en lampa när du lyser mot ögat). På vänster öga är
+synskärpan 0,8. Pupillen på höger öga reagerar inte på direkt belysning, men drar ihop sig när du lyser mot vänster
+öga.
+Vilken av nedanstående diagnoser är mest trolig?
+A. Akut glaukom
+✓B. Temporalisarterit
+C. Glaskroppsblödning
+D. Keratit
+E. Näthinneavlossning
+____________________________________________________________________________
+Question #: 77
+Ett utbrott av vancomycinresistenta enterokocker (VRE) har upptäckts på en vårdavdelning på sjukhuset. Du ska
+utreda om fler patienter har smittats och blivit bärare av VRE.
+Var blir VRE mest sannolikt en del av normalfloran?
+A. Vid näsöppningen
+B. I svalget
+✓C. I tarmen
+D. I ljumskarna
+E. På händerna
+____________________________________________________________________________
+Question #: 78
+För normal in-och utandning krävs att det finns en balanserad mängd ytspänningsnedsättande ämnen perifert i
+luftvägarna.
+Vilken cell/celler i luftvägarna producerar ytspänningsnedsättande ämnen?
+A. Bägarceller
+✓B. Claraceller och Alveolarceller typ II
+C. Claraceller
+D. Alveolarceller typ II
+E. Claraceller och bägarceller
+____________________________________________________________________________
+Question #: 79
+Föräldrarna till Ludvig, 18 månader, kommer till barnavårdscentralen för vaccination. De har hört att man kan få
+autism och kronisk tarmsjukdom av det vaccin som Ludvig just nu ska bli vaccinerad med. Du vet att vaccination
+enligt barnvaccinationsprogrammet i Sverige inte medför dessa risker och att det har gjorts stora studier som inte
+kan påvisa ett sådant samband. Du ger lugnande och motiverande besked till föräldrarna.
+Vilket/vilka virus/bakterier ska Ludvig vaccineras mot?
+✓A. MPR (Mässling, Påssjuka, Rubella)
+B. DTP (Difteri, Tetanus, Polio)
+C. Humant papillom och Pandemrix (H1N1)
+D. Hib (Haemophilus influenzae typ b)
+E. Rubella
+____________________________________________________________________________
+Question #: 80
+Gallstensoperationer vid gallstenssjukdom är mycket vanliga. Man brukar vanligen utföra en cholangiografi under
+gallstensoperationer.
+Varför?
+A. Cholangiografi behövs för att utesluta åtgärdskrävande stenar i djupa gallgångarna
+B. Cholangiografi behövs för att försäkra sig om normal gallvägsanatomi
+✓C. För att säkerställa gallvägarnas anatomi och utesluta åtgärdskrävande stenar i dessa
+D. Med en cholangiografi undviker man de fruktade gallgångsskadorna
+E. Med en cholangiografi undviker man uppkomst av fruktade blödningskomplikationer
+____________________________________________________________________________
+Question #: 81
+Gramfärgning är en gammal teknik för att klassificera bakterier.
+Vilken färg har grampositiva bakterier efter sådan färgning?
+A. Orange
+B. Röd
+C. Grön
+✓D. Lila
+E. Gul
+____________________________________________________________________________
+Question #: 82
+Gunnar är 65 år gammal och är före detta lastbilschaufför. Röker fortfarande trots genomgången framväggsinfarkt
+för 5 år sedan. Kommer nu till hälsocentralen på grund av tilltagande andfåddhet nattetid som tvingar honom till att
+sitta upp för att få luft. Förnekar kategoriskt bröstsmärta. Vid klinisk undersökning ses halsvenstas och lindriga
+perifera ödem av pitting-typ. Lösa rassel hörs över lungfälten och över apex hörs en tredjetons-galopp. Blodtrycket
+uppmäts till 160/90 mmHg och pulsen är regelbunden med en frekvens på 120 /min. EKG visar sinustakykardi och
+vänstersidigt skänkelblock med QRS duration 180 ms.
+Du träffar honom i egenskap av distriktsläkare. Vad bör du göra i första hand?
+✓A. Ordinera furosemid 40 mg intravenöst
+B. Skicka patienten akut till närmaste sjukhus för kranskärlsröntgen
+C. Ordinera metoprolol 10 mg intravenöst
+D. Remittera för polikliniskt arbets-EKG
+E. Remittera för poliklinisk ultraljudsundersökning av hjärtat
+____________________________________________________________________________
+Question #: 83
+Gösta, 72 år, har kroniskt obstruktiv lungsjukdom (KOL) stadium 3D enligt GOLD. Han har frekventa besvär med
+så gott som daglig produktiv hosta och andnöd. Det senaste året har han haft tre exacerbationer som krävt
+behandling med antibiotika och perorala steroider.
+Spirometri idag visar ett FEV1 på 43 % och en FEV1/FVC-kvot på 52 % såväl före som efter reversibilitetstest. O2-
+saturation 92 % på luft i vila, men sjunker till 88 % vid ansträngning. Han behandlas idag med kombinationen
+långverkande antikolinergika, långverkande beta-2-stimulerare och inhalationssteroider. Han har varit till KOLsköterska och har ett fungerande multidisciplinärt omhändertagande.
+Utifrån Göstas situation och sjukhistoria ovan planerar du att förändra hans läkemedelsbehandling.
+Vilken förändring av läkemedel är mest adekvat i hans situation?
+✓A. Tillägg av roflumilast
+B. Oxygenbehandling i hemmet
+C. Tillägg av acetylcystein
+D. Inhalation av ipratropium+salbutamol via nebulisator
+E. Tillägg av teofyllamin
+____________________________________________________________________________
+Question #: 84
+Helena, 75 år gammal, kommer till akutmottagningen för akut yrsel. Symtomet debuterade plötsligt i samband med
+att hon satt och åt lunch. Hon beskriver att det snurrar konstant och att rörelser gör yrseln värre. När du undersöker
+henne neurologiskt ser du uppåtslående nystagmus och ett normalt "head impulse"-test.
+Vilken av nedanstående diagnoser är mest sannolik?
+A. Vestibulär migrän
+B. Vestibularisneurit
+C. Benign paroxysmal vertigo
+D. Persisterande postural perceptuell yrsel
+✓E. Stroke
+____________________________________________________________________________
+Question #: 85
+Hemoptys är ett allvarligt kliniskt tecken och kan förekomma vid flera olika tillstånd, vilket är viktigt för
+differentialdiagnostik.
+Vilket av följande tillstånd är INTE en differentialdiagnos vid hemoptys?
+A. TBC
+B. Njurcancermetastaser till lungorna
+C. Lungemboli
+D. Primär lungcancer
+✓E. Lungfibros
+____________________________________________________________________________
+Question #: 86
+Herbert, 82 år, kommer till dig på hälsocentralen tillsammans med sin dotter. Han bor ensam i en lägenhet och en
+av hans föräldrar hade Alzheimers demens. Nu tycker dottern att han är förändrad och har svårt med minnet, men
+hon tror att det beror på en ny sömnmedicin som han har fått för några veckor sedan.
+Vilket av följande alternativ talar starkast för konfusion snarare än Alzheimers demensutveckling i tidigt skede?
+A. Symtomen tilltar långsamt
+B. Uppmärksamheten är i stort sett intakt
+✓C. Plötslig start med symtom som kommer och går
+D. Talet är ordnat och organiserat men han talar med kortare meningar, använder färre ord
+E. Symtomen hade en smygande debut
+____________________________________________________________________________
+Question #: 87
+Hexokinaser är en familj av enzymer som fosforylerar glukos i följande reaktion: glukos + ATP →glukos-6-fosfat +
+ADP. ΔG0 för reaktionen är -4,0 kcal/mol.
+Varför används glukos-6-fosfatas och inte hexokinas i baklängesreaktionen?
+A. Hexokinas ändrar jämvikten så att mer glukos-6-fosfat produceras, därför skulle det vara väldigt ineffektivt
+att använda hexokinas
+B. Hexokinas måste modifieras via ett annat enzym för att kunna katalysera bakåtreaktionen
+C. Då hexokinas katalyserar framåtreaktionen (mot glukos-6-fosfat) kan den inte också katalysera
+bakåtreaktionen
+D. Hexokinas har inte möjlighet att binda glukos-6-fosfat och kan därför inte katalysera bakåtreaktionen
+✓E. Jämvikten i reaktionen är kraftigt förskjuten åt glukos-6-fosfat och då enzymer inte ändrar jämviktsläget så
+skulle det vara väldigt ineffektivt att använda hexokinas
+____________________________________________________________________________
+Question #: 88
+Humant papillomvirus (HPV) uttrycker två proteiner - E6 och E7 - som visat sig vara viktiga vid cancerutveckling.
+E6 stimulerar nedbrytning av proteinet p53, E7 binder till och inhiberar proteinet pRb.
+Varför medför nedbrytning av p53 ökad risk för cancerutveckling vid HPV-infektion?
+A. p53 inhiberar DNA-skade-respons (checkpoint)
+B. p53 inducerar cytokines
+✓C. p53 inducerar apoptos
+D. p53 driver cellcykeln framåt
+E. p53 inducerar angiogenes
+____________________________________________________________________________
+Question #: 89
+Hussain är 39 år och tidigare frisk, mamma har hypothyreos och pappa kärlkramp. Han har sedan 4 månader ökad
+törst, stora urinmängder och har gått ned i vikt. Han mår annars bra men har också noterat viss dimsyn. Han har
+normal kroppskonstitution med BMI 24 kg/m2
+, normalt midjeomfång och är kliniskt euthyroid. B-glukos är 28
+mmol/l, blodgas visar normalt pH, men ketoner är förhöjda i urin och blod. Ingen hematuri eller proteinuri.
+Vad talar starkast för att Hussain drabbats av typ 1-diabetes?
+A. Normalt pH i arteriell blodgas, avsaknad av hematuri, normalt BMI
+B. Viktnedgång, avsaknad av proteinuri, ärftlighet för hypothyreos
+✓C. Låg ålder, autoimmun ärftlighet, ketonbildning
+D. Hög ålder, ärftlighet för kärlsjukdom och högt BMI
+E. Dimsyn, måttligt högt B-glukos, normalt midjeomfång
+____________________________________________________________________________
+Question #: 90
+Hypofysen är en endokrin körtel som kan delas upp i adenohypofysen och neurohypofysen.
+Vilka hormoner utsöndras från neurohypofysen?
+A. FSH och LH
+✓B. vasopressin och oxytocin
+C. T4 och T3
+D. prolaktin och GH
+E. TSH och ACTH
+____________________________________________________________________________
+Question #: 91
+I en viss reaktion är ΔG = 5 kJ/mol där G står för Gibbs fria energi.
+Vad innebär detta?
+A. Reaktionen är exergon och sker därför inte spontant
+B. Reaktionen är exoterm och sker spontant
+✓C. Reaktionen är endergon och sker därför inte spontant
+D. Reaktionen är endergon och sker därför spontant
+E. Reaktionen är endoterm och sker spontant
+____________________________________________________________________________
+Question #: 92
+I samband med en måltid kommer födans fett och peptider, när de når duodenum, att stimulera frisättning av ett
+hormon som gör att ett enzymrikt sekret avges från exokrina pankreas, och att gallblåsan kontraheras.
+Vad kallas detta hormon?
+A. Sekretin
+B. Gastrin
+C. Motilin
+✓D. Cholecystokinin
+E. Gastric inhibitory peptide
+____________________________________________________________________________
+Question #: 93
+I samband med en prostatektomi orsakades en skada på de kavernösa nerverna.
+Vilket symptom förväntas denna skada i första hand orsaka?
+✓A. Impotens
+B. Urininkontinens
+C. Förlust av tonusen i den externa analsfinktern
+D. Förlust av känslan i glans penis
+E. Oförmåga att ejakulera
+____________________________________________________________________________
+Question #: 94
+I samband med generell anestesi används många läkemedel för att upprätthålla ett adekvat anestesidjup med
+kontroll av vitalfunktioner.
+Vilket av följande läkemedel är bäst att ge för att behandla smärta?
+A. Fenylefrin
+B. Sevoflurane
+C. Atracurium
+✓D. Alfentanil
+E. Ondansetron
+____________________________________________________________________________
+Question #: 95
+I samband med inflammationssjukdomar är olika inflammatoriska mediatorer involverade.
+Vilka inflammatoriska mediatorer påverkas i första hand direkt av NSAID?
+A. Histamin och serotonin
+✓B. Prostaglandin, tromboxan och leukotrien
+C. Väteperoxid och superoxid-anjon
+D. Bradykinin
+E. Proteaser och hyaluronidaser
+____________________________________________________________________________
+Question #: 96
+I samband med intag av jordnötssmör får en 11-årig pojke pipande andning och tilltagande stark andningspåverkan.
+Pojken får ett rodnat ansikte och blir varm om händer och fötter.
+Pojken väger 50 kg.
+Hjärtfrekvens 142/min och blodtryck 85/40 mmHg.
+Du har tillgång till adrenalin 1 mg/ml.
+Eftersom pojken ännu inte har någon intravenös nål så du bestämmer dig för att ge läkemedlet i form av en
+intramuskulär injektion.
+Hur stor mängd av adrenalin 1 mg/ml bör du ge?
+A. 0,1 ml
+✓B. 0,5 ml
+C. 0,05 ml
+D. 1,0 ml
+E. 0,25 ml
+____________________________________________________________________________
+Question #: 97
+I våra muskler finns fibrillära proteiner som via en ATP-driven process rör sig lateralt i förhållande till varandra och
+därmed medierar rörelse.
+Vilka par av nedanstående filament utgör de som möjliggör en muskels sammandragning?
+A. Intermediära filament och aktin
+B. Myosin och tubulin
+C. Myosin och intermediära filament
+✓D. Aktin och myosin
+E. Aktin och kollagen
+____________________________________________________________________________
+Question #: 98
+Influensa A och B virus kan orsaka allvarliga luftvägsinfektioner, som kan vara dödliga hos bland andra äldre och
+hos människor med nedsatt lung- och hjärtfunktion.
+Vilken typ av nedanstående antivirala medel fungerar bäst vid behandling av infektion med influensa A och B
+virus?
+A. Nukleosidanaloger
+B. Proteashämmare
+✓C. Neuraminidashämmare
+D. Fusionshämmare
+E. Integrashämmare
+____________________________________________________________________________
+Question #: 99
+Inom ramen för Iowa Women's Health Study, registrerade forskare 41837 kvinnor år 1986. Information om
+kvinnornas livsstil samt exponering för riskfaktorer samlades in, för att bedöma sambandet mellan dessa data och
+senare insjuknande i cancer.
+Vad är denna studie ett exempel på?
+A. Tvärsnittsstudie
+B. Randomiserad kontrollerad studie
+C. Experimentell studie
+✓D. Kohortstudie
+E. Fall-kontrollstudie
+____________________________________________________________________________
+Question #: 100
+Järn har låg löslighet vid neutralt pH och måste därför vara bundet till ett protein om det ska kunna transporteras i
+blodet till de celler som behöver det.
+Med vilket protein transporteras järnjoner i blodet?
+A. Macroglobulin
+B. Ferritin
+C. Ferrochelatas
+D. Haptoglobin
+✓E. Transferrin
+____________________________________________________________________________
+Question #: 101
+Kalle är 68 år. En eftermiddag när han står och hugger ved upptäcker han att synen börjar försämras på höger öga.
+Till läkaren säger han: "Plötsligt blev det som en dimma för höger öga. Den kom uppifrån och sänkte sig ner över
+synfältet ungefär som en rullgardin. Synbortfallet varade ungefär en minut, därefter försvann det. Sen har jag sett
+bra igen".
+Vilket av följande påståenden är mest riktigt?
+A. Synbortfallet motsvarar en homonym hemianopsi
+B. En stenos i karotis interna på vänster sida kan vara en möjlig orsak
+C. Det här kan vara en centralvenstrombos
+✓D. Doktorn bör remittera för en datortomografi-angiografi
+E. Om EKG visar förmaksflimmer är klopidogrel en rimlig sekundärprofylax
+____________________________________________________________________________
+Question #: 102
+Komplementsystemet anses vara ytterst viktigt för att försvara oss mot virus och bakterier.
+Av vad aktiveras komplementsystemet?
+A. Cytotoxiska T-celler, CD40 och alternativa cytokiner
+B. UV-ljus, IL-4 och C85
+C. IL-2, bakteriers DNA och alternativa proteinstrukturer
+✓D. Antikroppar, ytan av en bakterie och alternativa sockerstrukturer
+E. Radiovågor, granulocyters fagocytos och kemokiner
+____________________________________________________________________________
+Question #: 103
+Linda, 35 år, kommer till hälsocentralen på grund av täta trängningar och smärta vid vattenkastning sedan två dygn.
+Hon får gå på toaletten varje timme dagtid och vaknar flera gånger på natten. Hon har haft urinvägsinfektion några
+gånger tidigare, aldrig med feber. Senast behandlad för sex månader sedan. Hon är inte gravid och har inga
+flytningar.
+Hon är nu opåverkad, har temp 37,1º C. Är palpationsöm över urinblåsan, ej dunkömma njurloger. Urinsticka visar:
+leukocyter 3+, erytrocyter +, nitrit positiv.
+Om antibiotika skrivs ut, vilket av följande antibiotika bör väljas i första hand?
+A. Ciprofloxacin
+B. Trimetoprim
+C. Amoxicillin
+✓D. Nitrofurantoin
+E. Cefadroxil
+____________________________________________________________________________
+Question #: 104
+Loperamid är ett receptfritt läkemedel som används för behandling av diarré. Ett växande problem är
+loperamidmissbruk.
+Varför missbrukas loperamid?
+A. Vid höga doser ger loperamid en övergående centralnervös ischemi i insularkortex
+B. Loperamid är en direktverkande GABA-A receptoragonist, och ger således ruseffekter som påminner om
+bensodiazepinernas
+✓C. Vid höga doser kan man åstadkomma ruseffekter på grund av stimulering av centrala opioidreceptorer
+D. Loperamid i höga doser frisätter serotonin i hjärnans belöningssystem
+E. Loperamid aktiverar multidrug-effluxpumpen P-glykoprotein (P-gp) och potentierar därmed effekten av
+andra missbruksmedel
+____________________________________________________________________________
+Question #: 105
+Lymfatisk vävnad återfinns i olika former i kroppen.
+Vad kallas de ansamlingar av lymfatisk vävnad som återfinns i andningsvägarnas och mag-tarmkanalens mucosa?
+A. Lymfknutor
+B. Marginalzon
+✓C. Lymffolliklar
+D. Vit pulpa
+E. Peyer's plack
+____________________________________________________________________________
+Question #: 106
+Med ultraljud kan man undersöka kroppen utifrån en rad olika frågeställningar.
+Vilken av följande vävnader lämpar sig INTE för visualisering med ultraljudsundersökning?
+A. Muskler
+B. Senor
+C. Leder
+✓D. Mineraliserat ben
+E. Blodkärl
+____________________________________________________________________________
+Question #: 107
+Med ökad ålder ökar risken för malignitet i magtarmkanalen.
+Vilken gastrointestinal cancer diagnosticeras oftast i Sverige?
+A. Esofaguscancer
+✓B. Kolorektal cancer
+C. Pankreascancer
+D. Levercancer
+E. Ventrikelcancer
+____________________________________________________________________________
+Question #: 108
+Morfin är ett vanligt läkemedel som effektivt lindrar smärta.
+Hur förklaras bäst den smärtlindrande effekten?
+✓A. Morfin aktiverar samma smärtlindrande system som de kroppsegna opioiderna
+B. Morfin aktiverar transkriptionsfaktorer i projektionsneuronens cellkärna
+C. Morfin ger smärtlindring genom att aktivera axonreflexen
+D. Morfin hämmar de flesta inflammationsmediatorers effekt på perifera nociceptorer
+E. Morfin hämmar specifikt enzymerna COX-1 och COX-2
+____________________________________________________________________________
+Question #: 109
+Myelinisering av nervtrådar är viktig för att få en snabb signalöverföring. Myelinskidan ser något olika ut i centrala
+(CNS) och perifera nervsystemet (PNS).
+Vilka celler bygger upp myelinskidan i CNS?
+A. Astrocyter
+B. Pericyter
+C. Schwannska celler
+✓D. Oligodendroglia
+E. Mikroglia
+____________________________________________________________________________
+Question #: 110
+Många sjukliga tillstånd/ sjukdomar inom gastrointestinalkanalen kan ge upphov till svår obstipation.
+Vid vilken av dessa sjukdomar är obstipation främsta symptomet?
+A. GvH (graft versus host disease) i tarmen
+B. Crohns sjukdom
+C. Spiroketos
+D. Mikroskopisk kolit
+✓E. Mb Hirschsprung
+____________________________________________________________________________
+Question #: 111
+Nervceller har olika funktioner och får därför också olika uppbyggnad. Bipolära celler har bara ett axon och en
+dendrit.
+Var hittar vi främst bipolära neuron?
+A. I muskelspolar och golgisenorgan
+B. I somatosensoriska cortex
+✓C. I retina och inneröra
+D. I cerebellum
+E. Alfamotoneuron
+____________________________________________________________________________
+Question #: 112
+När blodet koagulerar bildas det fibrintrådar från fibrinogen.
+Vad är det som direkt medverkar i omvandlingen av fibrinogen till fibrin?
+✓A. Trombin
+B. von Willebrands faktor
+C. Faktor X
+D. Faktor VIII
+E. Tranexamsyra
+____________________________________________________________________________
+Question #: 113
+När man analyserar ett urinsediment letar man bland annat efter förekomst av cylindrar.
+Vilken av följande typer av cylindrar är vanligast att hitta i ett normalt urinsediment?
+A. Leukocytcylindrar
+B. Korniga cylindrar
+C. Vaxcylindrar
+✓D. Hyalina cylindrar
+E. Erytrocytcylindrar
+____________________________________________________________________________
+Question #: 114
+Nässkiljeväggen sitter mellan näsborrarna. Trauma mot nässkiljeväggen kan leda till blödning och att näsan blir
+sned.
+Vad består nässkiljeväggen av?
+A. Elastiskt brosk
+B. Hyalint brosk
+C. Stram bindväv
+D. Ben
+✓E. Ben+hyalint brosk
+____________________________________________________________________________
+Question #: 115
+Olika DNA-reparationssystem används för olika typer av fel i DNA.
+Vilket eller vilka av följande DNA-reparationssystem används för korrektion av fel som uppkommer vid DNAreplikering?
+A. Bas-excisionsreparation och nukleotid-excisionsreparation
+✓B. Mismatchreparation
+C. Bas-excisionsreparation
+D. Nukleotid-excisionsreparation
+E. Rekombinationsreparation
+____________________________________________________________________________
+Question #: 116
+Olika virus använder olika enzymer för att kopiera sin arvsmassa.
+Vilka två av följande virus använder enzym som har omvänd transkriptas-aktivitet?
+A. HCV och influensavirus
+B. HIV och rhinovirus
+✓C. HBV och HIV
+D. TBEV och rhinovirus
+E. HSV och HCV
+____________________________________________________________________________
+Question #: 117
+Patienter med astma behandlas ofta med kortverkande β2-stimulerare och inhalationssteroider.
+Varför bör patienten instrueras om att skölja munnen efter steroidinhalation?
+A. Natrium-laurylsulfat, som finns i tandkräm, förhindrar absorption av inhalationssteroider. Detta undviks vid
+munsköljning
+B. För att minimera nedbrytning av tandemaljbildning på grund av att steroider är alkaliska
+C. Steroider kan ge oral lichen planus om de dröjer kvar länge i svalget
+✓D. För att minimera risken för opportuna svampinfektioner i svalget
+E. En ökad steroid-inducerad syntes av β2-receptorer i svalget minskar den fria koncentrationen av β2-
+stimulerare i bronkerna
+____________________________________________________________________________
+Question #: 118
+Patienter med njursvikt på grund av till exempel kronisk glomerulonefrit liksom patienter med primär
+hyperaldosteronism uppvisar ofta kronisk hypertoni.
+Vilken grundläggande fysiologisk mekanism ligger bakom den kroniska hypertonin vid dessa båda tillstånden?
+A. Minskad hjärtminutvolym
+B. Ökad frisättning av renin
+✓C. Ökad perifer flödesresistens
+D. Ökning av interstitiella vätskevolymen
+E. Reducerad tryckdiures
+____________________________________________________________________________
+Question #: 119
+Pia är gravid i vecka 34+3, hon väntar sitt andra barn. Pia har besvär med sura uppstötningar och förstoppning
+sedan ganska tidigt i graviditeten. Hon har nyss noterat tillkomst av åderbråck/varicer på bägge underbenen.
+Vilken är den viktigaste orsaken till samtliga dessa problem under graviditeten?
+A. Stor viktuppgång under graviditet
+B. Ökade prolaktinnivåer
+C. Ökade östrogennivåer
+✓D. Ökade progesteronnivåer
+E. Nedsatt fysisk aktivitet
+____________________________________________________________________________
+Question #: 120
+Proteiner kan på olika sätt modifieras i celler.
+Vilken av dessa processer kan påverka ett proteins struktur och/eller aktivitet?
+✓A. Fosforylering
+B. Fosfodiesterbindning
+C. 5´-capping
+D. Polyadenylering
+E. Replikation
+____________________________________________________________________________
+Question #: 121
+Proteiner är uppbyggda av aminosyror.
+Vilken av följande molekyler är INTE en aminosyra?
+✓A. Melanin
+B. Alanin
+C. Fenylalanin
+D. Serin
+E. Glutamat
+____________________________________________________________________________
+Question #: 122
+Proteinet p16Ink4a är en inhibitor av cyklin-beroende kinaser (CDK) och en viktig tumörsuppressor. Det inhiberar
+komplexet mellan CDK och cyklin D, vilket leder till att retinoblastomprotein fortsätter att blockera
+transkriptionsfaktor E2F.
+Vad kommer att hända med cellcykeln om p16Ink4a blir överuttryckt?
+A. Arrest i G2-fas
+B. Cellcykeln påverkas inte
+✓C. Arrest i G1-fas
+D. Arrest i M-fas
+E. Arrest i S-fas
+____________________________________________________________________________
+Question #: 123
+På din mottagning träffar du en 54-årig man som nyligen legat inne för behandling av alkoholabstinens. Du noterar
+att behandling i öppenvård ofta har komplicerats av patientens impulsivitet och självdestruktivitet. Förutom ett
+tämligen avancerat alkoholmissbruk så finns ett missbruk av opiater, och patienten behandlas nu med metadon.
+Somatiskt status är invändningsfritt förutom en kvarstående leverpåverkan med förhöjda ASAT och ALAT (kvot
+ASAT/ALAT >2). Patienten har inga andra medicinska problem eller någon känd läkemedelsöverkänslighet.
+Patienten önskar nu få en behandling som minskar risken för återfall i alkoholmissbruk.
+Vilken av följande mediciner är mest lämplig för denna patient?
+A. Diazepam
+B. Fluoxetin
+✓C. Acamprosat
+D. Naltrexon
+E. Disulfiram
+____________________________________________________________________________
+Question #: 124
+På en badplats, klockan 14 en dag i juli, har en 6-årig badande flicka just hittats medvetslös med ansiktet ned i
+vattnet och burits upp på land. Hon visar inga livstecken då hon läggs ned på rygg.
+Vilken är bästa nästa åtgärd?
+A. Kontrollera pupiller inklusive ljusreaktion
+B. Kontrollera carotispuls
+C. Smärtstimulera för att säkerställa grad av medvetslöshet
+✓D. Gör 5 inblåsningar
+E. Gör 30 hjärtkompressioner
+____________________________________________________________________________
+Question #: 125
+Receptorceller i nässlemhinnan aktiveras av olika luktämnen, och de sänder sina signaler till luktbulben från vilken
+signalerna sedan skickas vidare till olika delar av hjärnan.
+Till vilka strukturer skickas signalerna vidare från luktbulben?
+A. Thalamus, hjärnstammen och hippocampus
+B. Mammillarkropparna, hypothalamus och orbitofrontala cortex
+✓C. Piriforma cortex, amygdala och entorhinala cortex
+D. Hypothalamus, thalamus och parahippocampala cortex
+E. Hippocampus, piriforma och orbitofrontala cortex
+____________________________________________________________________________
+Question #: 126
+Reglering av proteinnivåer är nödvändigt för att celler ska kunna anpassa sig till förändringar i omgivningen
+Vilken av följande processer kan INTE på ett direkt sätt påverka nivåerna av ett protein i en cell?
+A. Translation
+B. 5´-Capping
+✓C. Replikation
+D. Transkription
+E. mRNA nedbrytning
+____________________________________________________________________________
+Question #: 127
+Ribosomer använder information kodad i mRNA för att syntetisera proteiner.
+Vad kallas byggstenarna i RNA?
+A. Deoxynukleosid-monofosfat
+B. Deoxynukleosid-trifosfat
+C. Deoxynukleosid-difosfat
+D. Nikotinamid-adenin-dinukleotidfosfat
+✓E. Nukleosid-trifosfat
+____________________________________________________________________________
+Question #: 128
+Ryggmärgen har olika bansystem som förmedlar specifik sensorisk information.
+Via vilken struktur förmedlas högupplöst känsel från vänster stortå?
+A. Vänster fasciculus cuneatus
+✓B. Vänster fasciculus gracilis
+C. Vänster tractus rubrospinalis
+D. Höger fasciculus cuneatus
+E. Höger fasciculus gracilis
+____________________________________________________________________________
+Question #: 129
+Skörbjugg är en sjukdom som beror på brist på vitamin C. Den kännetecknas av svagheter i bindväven.
+Var är orsaken till svagheten i bindväven vid skörbjugg?
+A. Kollagenmolekylen är mindre stabil på grund av problem med uppbyggnaden av peptidbindningarna
+✓B. Kollagenmolekylen har inte nog med hydroxyproliner vilket minskar möjligheten till stabiliserande
+vätebindningar
+C. Färre kollagenmolekyler produceras på grund av problem i ribosomen vilket minskar stabiliteten
+D. Kollagenmolekylen kan inte längre forma disulfidbryggor mellan tropokollagenmolekylerna vilket minskar
+stabiliteten
+E. Kollagenmolekylen kan inte längre repareras av enzymet kollagenas och bryts därför ner snabbare
+____________________________________________________________________________
+Question #: 130
+Spermier syntetiseras i testiklarna. Efter ejakulation tar sig bara ett visst antal spermier ända fram till oocyten.
+Vad menas med kapacitering av spermier?
+✓A. Att spermien blir kapabla att befrukta en oocyt
+B. Att spermiemotilitet inaktiveras
+C. Att sätta igång spermatogenesen
+D. Att spermiemotilitet aktiveras
+E. Att spermien fagocyteras
+____________________________________________________________________________
+Question #: 131
+Stämbanden sitter inuti struphuvudet. De är elastiska och spänns och slappnar av när brosket i struphuvudet rör på
+sig.
+Vad kännetecknar stämbandens histologi?
+A. Flerskiktat förhornat skivepitel och stram oregelbunden bindväv
+B. Respirationsvägsepitel och stram oregelbunden bindväv
+C. Respirationsvägsepitel och stram regelbunden bindväv
+D. Flerskiktat förhornat skivepitel och stram regelbunden bindväv
+✓E. Flerskiktat oförhornat skivepitel och stram regelbunden bindväv
+____________________________________________________________________________
+Question #: 132
+Thalassemier är ärftliga tillstånd som medför minskad synteshastighet av en proteinkedja som ingår i hemoglobin,
+vanligtvis beta-kedjan eller alfa-kedjan.
+Vid thalassemier får man förändringar av olika grad i olika variabler som ingår i blodstatus.
+Vilken av följande variabler i blodstatus är allra oftast patologiskt förändrad vid thalassemier?
+✓A. MCV
+B. RDW
+C. Hb
+D. MCHC
+E. EPK
+____________________________________________________________________________
+Question #: 133
+Tindra, 10 år, reagerar plötsligt med kliande och rinnande ögon samt nysningar under maj månad. Ibland har hon
+mindre symtom, andra dagar mer. I anamnesen framkommer att Tindra inte har några andra misstänkta allergiska
+symtom. Medföljande förälder har hösnuva och vill att Tindra ska genomgå en ordentlig utredning med pricktest.
+Vad ger en pricktest för information?
+A. Visar om Tindra är allergisk mot ett specifikt ämne
+B. Visar hur kraftig allergi Tindra har drabbats av genom storleken på pricken
+C. Visar om Tindra reagerar allergiskt mot ett specifikt allergen
+D. Ett pricktest ger endast minimal information, det är bättre med ett blodprov
+✓E. Visar om Tindra är sensibiliserad mot ett specifikt ämne
+____________________________________________________________________________
+Question #: 134
+Utifrån en patients symtombild kan man oftast avgöra vilken del av nervsystemet som är skadat.
+Vilket av följande symtom talar mest för en kortikal skada?
+A. Dysartri
+B. Tremor
+C. Rigiditet
+✓D. Apraxi
+E. Dyskinesier
+____________________________________________________________________________
+Question #: 135
+Vi har tre större salivproducerande spottkörtlar.
+Vad kännetecknar histologin för sublingualiskörtlarna?
+A. Övervägande mukös + serösa och mukösa delar i olika lober + korta intercalated ducts
+✓B. Övervägande mukös + blandning av mukösa och serösa celler i samma ändstycke + långa intercalated ducts
+C. Nästan helt serös + långa striated ducts + långa intercalated ducts
+D. Nästan helt mukös + långa striated ducts + korta intercalated ducts
+E. Nästan helt mukös + långa striated ducts + långa intercalated ducts
+____________________________________________________________________________
+Question #: 136
+Vid celiaki får man en immunologisk reaktion mot gluten (gliadin) men också mot transglutaminaser i tarmepitelet
+och i epidermis.
+Vilken är transglutaminasernas huvudsakliga roll i dessa epitel?
+✓A. Binda samman cellerna med S-S-bryggor.
+B. Aktivera connexiner i gap junctions
+C. Förhindra passage av joner mellan cellerna
+D. Koppla tight junctions till aktin i cellerna
+E. Förhindra passage av vatten mellan cellerna
+____________________________________________________________________________
+Question #: 137
+Vid många infektioner ställer man diagnos genom att påvisa smittämnet. Andra infektioner diagnosticeras genom
+att påvisa ett specifikt immunsvar mot infektionen.
+Vilken av följande infektioner diagnosticeras bäst med antikroppspåvisning?
+✓A. Borrelia
+B. Ringorm
+C. Influensa
+D. Gonorré
+E. Rotavirus
+____________________________________________________________________________
+Question #: 138
+Vid typ 1-diabetes syftar behandlingen till att förebygga kroniska komplikationer. Återkommande undersökningar
+av patienten kan tidigt påvisa komplikationer och ge möjlighet att förhindra att dessa förvärras.
+Vilka metoder bör användas för att påvisa de tre speciella komplikationer som patienten med diabetes riskerar
+orsakat av diabetisk mikroangiopati?
+✓A. Fotografering av ögonbottnar, undersökning av fötternas cirkulation och känsel och mätning av U-albumin
+eller U-albumin/kreatinin-kvot
+B. Kreatinin-clearance, kapillär pO2-mätning i tårna, synfältsundersökning
+C. Ultraljud carotis, P-cystatin, nervledningshastighet
+D. Urin-elektrofores, ögontrycksmätning, blodtryck i underben
+E. Undersökning av fötternas cirkulation och känsel, U-sediment, blodtryck
+____________________________________________________________________________
+Question #: 139
+Vid varje dödsfall åligger det en läkare att konstatera dödsfallet, vilket innebär att denna procedur ska utföras ca
+100 000 gånger årligen i vårt land.
+Vid vilket av följande tillstånd är risken för skendöd MINST?
+✓A. Akut hjärtdöd
+B. Drunkningstillbud
+C. Hypotermi
+D. Prematurt nyfött barn
+E. Barbituratförgiftning
+____________________________________________________________________________
+Question #: 140
+Virus och extracellulära bakterier hanteras delvis olika av immunsystemet.
+Vilken av nedanstående immunologiska mekanismer är uteslutande viktig i försvaret mot just virus (men inte mot
+bakterier)?
+A. TH-celler
+B. Komplementproteiner
+✓C. Typ 1 interferoner
+D. Granulocyter
+E. Antikroppar 
