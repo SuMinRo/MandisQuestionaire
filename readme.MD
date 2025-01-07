@@ -22,7 +22,7 @@ Upprepa för varje atomisk fråga:
 
 <Tom rad>
 \
-\
+
 Exempel:
 
 Hur många apor får plats i en kubikmeters volym?
