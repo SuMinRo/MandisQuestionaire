@@ -21,7 +21,7 @@ Upprepa för varje atomisk fråga:
 <Fel svar>
 
 <Tom rad>
-\
+
 
 Exempel:
 
@@ -40,6 +40,6 @@ Fem
 Inga, lol
 
 Eh?
-\
+
 
 <Ny fråga>
