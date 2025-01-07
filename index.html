@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <title>Kernel Explorer</title>
+    <link rel="stylesheet" type="text/css" href="parallel.css" />
+    <link href="nouislider.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/themes/monolith.min.css"/>
+  </head>
+  <body>
+  <script src="nouislider.js"></script>
+  <div id="header">
+    <h1>Kernel Explorer</h1>
+    <button title="Zoom in on selected data" id="keep-data" disabled="disabled">Keep</button>
+    <button title="Remove selected data" id="exclude-data" disabled="disabled">Exclude</button>
+    <button title="Export data as CSV" id="export-data">Export</button>
+    <div class="controls">
+      <strong id="rendered-count"></strong>/<strong id="selected-count"></strong><!--<strong id="data-count"></strong>-->
+      <div class="fillbar"><div id="selected-bar"><div id="rendered-bar">&nbsp;</div></div></div>
+      Lines at <strong id="opacity"></strong> opacity.
+      <span class="settings">
+        <button id="hide-ticks">Hide Ticks</button>
+        <button id="show-ticks" disabled="disabled">Show Ticks</button>
+      </span>
+    </div>
+    <div style="clear:both;"></div>
+  </div>
+  <div id="chart">
+    <canvas id="background"></canvas>
+    <canvas id="foreground"></canvas>
+    <canvas id="highlight"></canvas>
+    <svg></svg>
+  </div>
+  <div id="wrap">
+    <div class="third">
+      <div id="instructions">
+        <div class="bright">
+          <h3>What is this?</h3>
+          <p>
+            A multidimensional explorer of kernel data from the Jörg Conradt and Dimitrios Korakovounis.
+          </p>
+          <p>
+            The parallel coordinates displays the relation between the 6 different attributes, along with an evaluation metric and an id, at the moment colored statically according to the id. 
+          </p>
+          <p>
+            <a href="https://eagereyes.org/blog/2010/parallel-coordinates">Never heard of parallel coordinates? Read this tutorial.</a>
+          </p>
+          <p>
+            Brush the visualization to update other charts on this page.
+          </p>
+        </div>
+        <div class="bright">
+          <div class="little-box">
+            <h3>Controls</h3>
+            <p>
+              <strong>Brush</strong>: Drag vertically along an axis.<br/>
+              <strong>Remove Brush</strong>: Tap the axis background.<br/>
+              <strong>Reorder Axes</strong>: Drag a label horizontally.<br/>
+              <strong>Invert Axis</strong>: Tap an axis label.<br/>
+              <strong>Remove Axis</strong>: Drag axis label to the left edge.<br/>
+            </p>
+          </div>
+          <div class="little-box">
+            <h3>Credits &amp; License</h3>
+              <p>
+              Adapted from examples by<br/>
+              <a href="https://gist.github.com/syntagmatic/3150059">Kai Chang</a>, <a href="http://bl.ocks.org/1341021">Mike Bostock</a>, and <a href="http://bl.ocks.org/1341281">Jason Davies</a><br/>
+              </p>
+              <p>
+                Copyright &copy; 2023, Filip Berendt<br/>
+                All rights reserved. Released under the <a href="http://opensource.org/licenses/bsd-3-clause">BSD License</a>.
+              </p>
+            </p>
+          </div>
+        </div>
+        <div class="bright">
+          <h3>Symbolic Filter</h3>
+          <p>
+            The symbolic filter supports boolean expressions in <a href="https://en.wikipedia.org/wiki/Conjunctive_normal_form">Conjunctive Normal Form (CNF)</a>. Invalid clauses or values will be omitted in the evaluation of the whole expression. Apply your expression as a filter by pressing 'Enter'.
+          </p>
+          <p>
+            <b>WARNING:</b> The symbolic filter uses a js-function called 'eval()', which enables arbitrary code execution vulnerabilities. There are many reasons for not using it professionally, but considering that this tool is served by a server you set up for yourself locally, and the js code is executed locally, it can be considered 'safe enough'. Just do not deviate from the intended syntax of the filter writing <i>actual</i> code, and you should be fine.
+          </p>
+          <p>
+            Each value in the expressions can be written as "&lt;Attribute&gt; &lt;Comparator&gt; &lt;Numeric Value&gt;". The attribute names are exactly the same as the names labeling the axes.
+          </p>
+          <p>
+            The values and clauses can be combined to construct the expression in CNF using "OR" and "AND".
+          </p>
+          <p>
+            Example: "id &lt; 100 OR id &gt;= 200 AND dx == 1.00" will show the points with id in the range of 0-99 or 200-inf, that has dx at 1.00.
+          </p>
+      </div>
+      </div>
+      <div id="details-on-demand">
+        <h3>Kernel Details<button style="float: right;" onclick="hideDetails()">Hide</button></h3>
+        <div id="details">
+          <canvas id="kernel-image"></canvas>
+          <div id="kernel-attributes"></div>
+        </div>
+        <div>
+          <canvas id="kernel-reference"></canvas>
+        </div>
+        <div>
+          <div id="pixel-palette" class="color-palette-box"></div>
+        </div>
+      </div>
+    </div>
+    <div class="third">
+      <h3>Symbolic Filter <input type="text" id="search" placeholder="Search Kernels...", style="width: calc(100% - 163.24px);"></input></h3>
+      <p id="kernel-list">
+      </p>
+    </div>
+    <div class="third">
+      <h3>Other Filters and Options</h3>
+
+      <h4>Timestep Controls</h4>
+      <div id="slider" style="float: right; width: calc(100% - 130px);"></div>
+      <input id="slider-upper-bound" title="Upper Bound (Exclusive)" type="text" style="float: right; width: 25px; margin-right: 25px;" onclick="this.select()"></input>
+      <input id="slider-lower-bound" title="Lower Bound (Inclusive)" type="text" style="float: right; width: 25px; margin-right: 5px;" onclick="this.select()"></input>
+      <input id="slider-lock" title="Lock Slider Span" type="checkbox" checked></input>
+
+      <h4>Animation Controls</h4>
+      <select id="animation-limit-action" onchange="selectAnimationLimitAction()" style="margin-bottom: 5px;">
+        <option value=0>Stop</option>
+        <option value=1>Loop</option>
+        <option value=2>Reverse</option>
+      </select> when ends are reached.</br>
+      Play with <input id="animation-fps" title="Frames per second" type="text" style="width: 25px; margin-bottom: 5px;" value="1" onclick="this.select()"></input> FPS. &#40;Performance depends on system&#41;</br>
+      Skip <input id="animation-frame-skip" title="Skip n step(s)" type="text" style="width: 25px; margin-bottom: 5px;" value="0" onclick="this.select()"></input> step(s).</br>
+      <button id="step-backwards" title="Step Backwards" onclick="stepSliderBackwards()"><img src="images/stepBackwardIcon.png"></img></button>
+      <button id="animate-backwards" title="Play Backwards" onclick="animateSliderBackwards()"><img src="images/playBackwardIcon.png"></img></button>
+      <button id="animate-stop" title="Pause Animation" onclick="animateSliderStop()"><img src="images/pauseIcon.png"></img></button>
+      <button id="animate-forwards" title="Play Forwards" onclick="animateSliderForwards()"><img src="images/playForwardIcon.png"></img></button>
+      <button id="step-forwards" title="Step Forwards" onclick="stepSliderForwards()"><img src="images/stepForwardIcon.png"></img></button>
+
+      <h4>Color Mapping Options</h4>
+      Map on <select name="Dimensions" id="colorDimensions" onchange="selectAxisForColor()">
+      </select>
+      <button name="NormaliseColorMapping" id="NormaliseColorMappingButton" onclick="normaliseColorMapping()">Normalise</button>
+      <input id="AlwaysNormalise" title="Normalise automatically on every update" type="checkbox"></input>
+
+      <h4>Color Palette Options</h4>
+      <div id="color-controls">
+        <button onclick="removeColor(false)">−</button>
+        <button onclick="addColor()">+</button>
+        &emsp;&emsp;&emsp; Generate 
+        <select id="color-amount" style="margin: 5px;">
+          <option value=2>2</option>
+          <option value=3>3</option>
+          <option value=4>4</option>
+          <option value=5>5</option>
+          <option value=6>6</option>
+          <option value=7>7</option>
+          <option value=8>8</option>
+          <option value=9>9</option>
+          <option value=10>10</option>
+          <option value=11>11</option>
+          <option value=12>12</option>
+        </select>
+        colors &emsp;
+        <button onclick="extendColors()">Extend</button>
+        <button onclick="replaceColors()">Replace</button>
+      </div>
+      <div class="color-frame">
+        <div id="color-palette" class="color-palette-box"></div>
+      </div>
+    </div>
+  </div>
+  </body>
+  
+  <script src="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/pickr.min.js"></script>
+  <script src="https://d3js.org/d3.v2.js"></script>
+  <script src="https://underscorejs.org/underscore.js"></script>
+  <script src="parallel.js"></script>
+</html>
